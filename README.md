@@ -32,3 +32,5 @@ ADVIT MANDAMIENTO CUNURANA
 
 ### Ubicación:  
 TARATA – PERÚ  
+
+![Texto alternativo](computadora.png)
