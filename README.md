@@ -29,5 +29,3 @@ PAUL JAREN CASTILLO RAMOS
 
 ### Ubicación:  
 TARATA – PERÚ  
-
-![Texto alternativo](computadora.png)
