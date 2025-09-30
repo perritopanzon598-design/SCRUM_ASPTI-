@@ -7,7 +7,7 @@
 
 ### **ARQUITECTURA DE PLATAFORMAS Y SERVICIOS DE TECNOLOGÍAS DE LA INFORMACIÓN – APSTI**
 
-![Logo Institución](f064bdbdd0204c825ce1fb595f6200b0ca004c22.png)
+![Logo Institución](image-removebg-preview.png)
 
 # TRABAJO ENCARGADO N°03
 
